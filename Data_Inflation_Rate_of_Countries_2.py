@@ -25,7 +25,7 @@ from sklearn.metrics import r2_score, mean_squared_error, accuracy_score, mean_a
 # In[2]:
 
 
-df= pd.read_csv('C://Users/xpera/OneDrive/Desktop/API_FP.CPI.TOTL.ZG_DS2_en_csv_v2_4250827.csv')
+df= pd.read_csv('D:/KDU BLENDER LEARNING/Introduction to Data Science/New datasetr/API_FP.CPI.TOTL.ZG_DS2_en_csv_v2_4250827.csv')
 df.head(5)
 
 
