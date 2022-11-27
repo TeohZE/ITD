@@ -406,14 +406,7 @@ transp
 columns= transp.columns[1:]
 columns
 
-###Not been conolized: Austria, Belgium,  Switzerland, Cyprus, Denmark, Dominican Republic,  Spain,  Finland(Sweden), France, United Kingdom, Greece, Ireland, Iceland, Japan, Luxembourg, Mexico, Malta, Netherlands, Norway, Portugal, Sweden, Thailand, Turkiye,    
 
-
-###Been Conolized: Australia,Burkina Faso(French),Canada, Bolivia(Spanish), Colombia(Spanish), Costa Rica(Spain), Germany(Britain, Holland, France and Spain), Ecuador(Spain), Egypt, Arab Rep.(French, British), Guatemala(Spain), Honduras(Spain), Haiti(Span), Indonesia(Dutch), India(Europe), Israel(British), Italy(British,Spain Russia and Spain), Jamaica(British), Kenya(British),
-###Korea, Rep.(japan), Latin America & Caribbean(Spain, France, Protugal), Sri Lanka(Portugal, the Netherlands and Great Britain), Morocco(France and Spain), Malaysia(Portuguese, Dutch, British), North America(Britain, France, Spain, and the Netherlands), Nigeria(British), New Zealand(British), Pakistan(British), Panama(Spanish), Peru(Spanish),Philippines(Spanish), Paraguay(Spanish), Sudan(British), El Salvador(Spanish), Uruguay(Europeans), South Africa (Netherlands and british),United States,
-
- 
-###Other: OECD members, Post-demographic dividend, Latin America & the Caribbean, Euro area, European Union,
 # ### Non Colonized Country
 
 # In[29]:
@@ -427,9 +420,6 @@ non_country
 
 # In[ ]:
 
-
-###Been Conolized: Burkina Faso(French), Bolivia(Spanish), Colombia(Spanish), Costa Rica(Spain), Germany(Britain, Holland, France and Spain), Ecuador(Spain), Egypt, Arab Rep.(French, British), Guatemala(Spain), Honduras(Spain), Haiti(Span), Indonesia(Dutch), India(Europe), Israel(British), Italy(British,Spain Russia and Spain), Jamaica(British), Kenya(British),
-###Korea, Rep.(japan), Latin America & Caribbean(Spain, France, Protugal), Sri Lanka(Portugal, the Netherlands and Great Britain), Morocco(France and Spain), Malaysia(Portuguese, Dutch, British), North America(Britain, France, Spain, and the Netherlands), Nigeria(British), New Zealand(British), Pakistan(British), Panama(Spanish), Peru(Spanish),Philippines(Spanish), Paraguay(Spanish), Sudan(British), El Salvador(Spanish), Uruguay(Europeans), South Africa (Netherlands and british)
 
 
 # In[30]:
