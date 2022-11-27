@@ -10,6 +10,8 @@
 #Import Libraries
 import numpy as np #Basic operations
 import pandas as pd #For dataframe manipulations
+import yfinance as yf
+import streamlit as st
 import matplotlib.pyplot as plt #For data visualization
 import seaborn as sns
 import plotly.express as px #For plotting graphs
